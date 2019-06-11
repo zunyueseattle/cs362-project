@@ -1,4 +1,7 @@
 # cs362-project
+
+the most part of this code is reference by https://github.com/janmilosh/farkle-javascript
+
 this project is farkle game.
 This game should let two user play.
 The player one should first roll dices.
